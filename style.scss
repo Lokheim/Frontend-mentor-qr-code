@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Outfit";
+  font-family: "Outfit", sans-serif;
   font-size: 15px;
   background-color: hsl(212, 45%, 89%);
   main {
@@ -44,6 +44,8 @@ body {
 
 @media only screen and (min-width: 800px) {
   body {
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
     main {
       position: absolute;
       width: 300px;
